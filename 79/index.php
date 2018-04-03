@@ -1054,6 +1054,8 @@ $('#activate-step-14').click(function(){
 //     document.getElementById("#usuario_siio_id_search").focus();
 $("#usuario_siio_id_search").focus();
 $("#fname").focus();
+
+console.log("Despues del focus");
    //	$('#datosenvio').click();
 });
 
